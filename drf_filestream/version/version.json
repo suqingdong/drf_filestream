@@ -1,5 +1,5 @@
 {
-    "prog": "drf_filestream_api",
+    "prog": "drf_filestream",
     "desc": "A file stream application for DjangoRestFramework",
     "author": "suqingdong",
     "author_email": "suqingdong1114@gmail.com",

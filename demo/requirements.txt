@@ -1,4 +1,3 @@
 drf_yasg
-python-magic
-humanfriendly
+dj_rest_auth
 djangorestframework

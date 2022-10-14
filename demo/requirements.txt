@@ -1,0 +1,4 @@
+python-magic
+humanfriendly
+djangorestframework
+drf_yasg

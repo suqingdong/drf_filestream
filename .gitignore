@@ -1,0 +1,5 @@
+*py[co]
+*__pycache__
+.vscode
+demo/data
+demo/db.sqlite3

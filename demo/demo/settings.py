@@ -126,6 +126,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # ======================================================================
 # new
+from rest_framework import permissions
 INSTALLED_APPS += [
     'rest_framework',
     'dj_rest_auth',
@@ -133,3 +134,4 @@ INSTALLED_APPS += [
 
     'drf_filestream',
 ]
+FILE_ACCESS_PERMISSIONS = [permissions.IsAuthenticated]

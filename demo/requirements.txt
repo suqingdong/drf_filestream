@@ -1,4 +1,4 @@
+drf_yasg
 python-magic
 humanfriendly
 djangorestframework
-drf_yasg
